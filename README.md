@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bielgeri
-- 👀 I’m interested in leanr JS and Python
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in leanr Python and HTML/CSS
+- 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
