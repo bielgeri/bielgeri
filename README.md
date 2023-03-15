@@ -1,6 +1,6 @@
--  Hi, I’m @bielgeri
--  I’m interested in leanr Python and JS
--  I’m currently learning Javascript
+ @bielgeri
+Atualmente aprendendo JavaScript
+Tenho interesse em SQL 
 
 
 <!---
