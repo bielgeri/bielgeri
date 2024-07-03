@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bielgeri&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bielgeri&bg_color=050505&color=ff9500&line=6c2323&point=b94141&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas
