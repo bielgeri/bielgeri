@@ -14,4 +14,4 @@
 
 
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas
+Atualmente cursando Ciência da Computação - 8° Semestre
