@@ -9,8 +9,7 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bielgeri&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=bielgeri&langs_count=4&theme=shadow_red)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bielgeri&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=bielgeri&langs_count=4)
 
 
 Atualmente cursando Ciência da Computação - 8° Semestre
