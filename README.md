@@ -9,8 +9,7 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bielgeri&layout=compact)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bielgeri&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=bielgeri&langs_count=4&theme=shadow_red)
 
 
 
